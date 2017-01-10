@@ -34,11 +34,11 @@ System.out.println(rs.getHtml());
 ```
 
 ### 架构图
-![Alt text](./微信截图_20170110112925.png)
+![Alt text](https://github.com/DJasonlin/spider/blob/master/doc/img/spider-jiagou.png)
 
 
 ### 流程图
-![Alt text](./微信截图_20170110113130.png)
+![Alt text](https://github.com/DJasonlin/spider/blob/master/doc/img/spider-liucheng.png)
 
 ### 接口类说明SpiderFactory
 
@@ -61,7 +61,7 @@ System.out.println(rs.getHtml());
 - 调用相应的内部抓取程序接口进行抓取
 
 #### 接口类流程图
-![Alt text](./微信截图_20170110114100.png)
+![Alt text](https://github.com/DJasonlin/spider/blob/master/doc/img/spider-api-liucheng.png)
 
 
 
